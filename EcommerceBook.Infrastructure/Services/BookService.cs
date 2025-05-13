@@ -40,25 +40,13 @@ namespace EcommerceBook.Application.Services
             return await _bookRepository.UpdateDetachedAsync(book);
         }
 
-        // New method to get book without tracking
-        public async Task<Book> GetBookByIdAsNoTracking(Guid id)
-        {
-            return await _bookRepository.GetByIdAsNoTrackingAsync(id);
-        }
+       
 
         public async Task<bool> DeleteBook(Guid id)
         {
             return await _bookRepository.DeleteAsync(id);
         }
 
-        public async Task<IEnumerable<Book>> GetAllBooks()
-        {
-            return await _bookRepository.GetAllAsync();
-        }
-
-        public async Task<Book> GetBookById(Guid id)
-        {
-            return await _bookRepository.GetByIdAsync(id);
-        }
+       
     }
 }
