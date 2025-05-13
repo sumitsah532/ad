@@ -1,0 +1,30 @@
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\bin\Debug\net8.0\EcommerceBook.Application.deps.json
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\bin\Debug\net8.0\EcommerceBook.Application.dll
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\bin\Debug\net8.0\EcommerceBook.Application.pdb
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\bin\Debug\net8.0\EcommerceBook.Domain.dll
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\bin\Debug\net8.0\EcommerceBook.Domain.pdb
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\EcommerceBook.Application.csproj.AssemblyReference.cache
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\EcommerceBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\EcommerceBook.Application.AssemblyInfoInputs.cache
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\EcommerceBook.Application.AssemblyInfo.cs
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\EcommerceBook.Application.csproj.CoreCompileInputs.cache
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\Ecommerc.306E3B1E.Up2Date
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\EcommerceBook.Application.dll
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\refint\EcommerceBook.Application.dll
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\EcommerceBook.Application.pdb
+G:\Projects\.NET\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\ref\EcommerceBook.Application.dll
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\bin\Debug\net8.0\EcommerceBook.Application.deps.json
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\bin\Debug\net8.0\EcommerceBook.Application.dll
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\bin\Debug\net8.0\EcommerceBook.Application.pdb
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\bin\Debug\net8.0\EcommerceBook.Domain.dll
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\bin\Debug\net8.0\EcommerceBook.Domain.pdb
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\EcommerceBook.Application.csproj.AssemblyReference.cache
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\EcommerceBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\EcommerceBook.Application.AssemblyInfoInputs.cache
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\EcommerceBook.Application.AssemblyInfo.cs
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\EcommerceBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\Ecommerc.306E3B1E.Up2Date
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\EcommerceBook.Application.dll
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\refint\EcommerceBook.Application.dll
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\EcommerceBook.Application.pdb
+C:\Users\Sumit Kumar Shah\OneDrive\Desktop\To Send\To Send\EcommerceBook\EcommerceBook.Application\obj\Debug\net8.0\ref\EcommerceBook.Application.dll
